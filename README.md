@@ -1,1 +1,1 @@
-# face_detection
+Develop an AI application that can detect and recognize faces in images or videos.Use pretrained face detection ,odels like Haarcascades or deep learning-based face detectors,and optionally add face recofnition capabilities using techniques like Siamese network or ArcFace.
